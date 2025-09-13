@@ -18,8 +18,6 @@ menuHamb.onclick = function () {
         : 'fa-solid fa-bars';
 };
 
-
-
 const topo = document.getElementById("top");
 
 window.addEventListener("scroll", function() {
